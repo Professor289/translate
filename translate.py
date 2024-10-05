@@ -40,3 +40,4 @@ def translate_srt(input_srt_file, output_srt_file, target_language='ar'):
 input_srt = '01_gradient-descenten.srt'  # مسار ملف الترجمة الأصلي
 output_srt = 'arabic.srt'  # مسار الملف المترجم
 translate_srt(input_srt, output_srt, target_language='ar')  # ترجمة للعربية
+#NKHUHUH
